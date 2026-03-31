@@ -7,7 +7,7 @@ I conducted SSL/TLS configuration check on the *vulnerable Website: sixwordscomm
 ## Evidence of Vulnerability
 
 The SSL test revealed the following issues:
-- TLS 1.2 supported with weak cipher suites (AES-CBC, RSA key exchange): 
+- TLS 1.2 is supported with weak cipher suites (AES-CBC, RSA key exchange): 
 
   ![TLS 1.2](weak-cipher-suites.png)
 
@@ -15,8 +15,8 @@ The SSL test revealed the following issues:
 - HSTS (Strict Transport Security) is not enabled:
 
    ![HSTS](hsts.png)
-   
-- Certificate expires soon (on the 06 May 2026):
+
+    - Certificate expires soon (on the 06 May 2026):
 
 ![Certficate Expiry Date](certificate-expiry.png)
 
