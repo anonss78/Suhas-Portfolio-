@@ -2,7 +2,7 @@
 
 ## Vulnerable Website Discovered
 
-I conducted SSL/TLS configuration check on the *vulnerable Website: sixwordscommunication.com* using SSL Labs.
+I conducted SSL/TLS configuration check on the ***vulnerable website: sixwordscommunication.com*** using SSL Labs.
 
 ## Evidence of Vulnerability
 
@@ -16,9 +16,9 @@ The SSL test revealed the following issues:
 
    ![HSTS](hsts.png)
 
-    - Certificate expires soon (on the 06 May 2026):
+  - Certificate expires soon (on the 06 May 2026):
 
-![Certficate Expiry Date](certificate-expiry.png)
+  ![Certficate Expiry Date](certificate-expiry.png)
 
 - Forward Secrecy only partially supported by some browsers:
 
