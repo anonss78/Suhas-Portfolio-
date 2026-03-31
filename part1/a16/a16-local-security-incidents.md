@@ -8,7 +8,7 @@ The University of Western Australia suffered a cyber attack in which thousands o
 
 Qantas was one of 39 companies targeted by the Cyber Criminal group, Scattered Lapsus$ Hunters, who threatened to leak millions of stolen customer data unless their ransom demands were achieved. The group obtained the data by exploiting access to a third party platform, which was a Salesforce system.[2]
 
-### 2) Optus Data Breach Class Action in September 2022
+### 3) Optus Data Breach Class Action in September 2022
 
 The databreach exposed the personal data of up to 9.5 million current and former Optus customers.This included contact and identification details such as driver licenses and Passport document numbers. Slater & Gordon filed a class action on behalf of more than 100,000 affected customers,which alleged that Optus failed to adequately protect the data of its customers which breached privacy and increased the risk of identity theft.[3]
 
