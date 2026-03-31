@@ -25,4 +25,4 @@ https://codersforcauses.org/
 
 **My profile:**
 
-![CFC profile](cfc-signup.png)
+![CFC profile](cfc-profile.png)
