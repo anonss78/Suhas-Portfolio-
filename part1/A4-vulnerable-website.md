@@ -1,7 +1,29 @@
-A4. Discover a vulnerable website
+# A4. Discover a vulnerable website
 
-Owasp Juice Shop is an intentionally insecure application, containing hacking challenges of varying levels covering real world security flaws. It contains vulnerabilities such as:
+## Vulnerable Website Discovered
 
-1) SQL Injection - challenges where unauthenticated users can login and access the database
-2) Broken Access Control - Unautheticated users can access,modify and delete data
-3) Cross Site Scripting (XSS) - allows users to inject malicous scripts.
+I conducted SSL/TLS configuration check on the *vulnerable Website: sixwordscommunication.com* using SSL Labs.
+
+## Evidence of Vulnerability
+
+The SSL test revealed the following issues:
+- TLS 1.2 supported with weak cipher suites (AES-CBC, RSA key exchange): 
+
+  ![TLS 1.2](weak-cipher-suites.png)
+
+
+- HSTS (Strict Transport Security) is not enabled:
+
+   ![HSTS](hsts.png)
+   
+- Certificate expires soon (on the 06 May 2026):
+
+![Certficate Expiry Date](certificate-expiry.png)
+
+- Forward Secrecy only partially supported by some browsers:
+
+  ![Forward Secrecy](forward-secrecy.png)
+
+## Summary
+
+The website is vulnerable due to weak TLS 1.2 ciphers, missing HSTS, and a soon-to-expire certificate, which could allow attackers to perform Man-In-The-Middle attacks or downgrade the connection to an insecure protocol.
