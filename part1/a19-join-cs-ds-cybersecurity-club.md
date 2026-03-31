@@ -7,7 +7,7 @@
 - **What they do:** University students are connected with different charity organisatiosn to build technical solutions
 
 ## Joining Coders for Causes (CFC)
-I joined the club on the 31/03/2026 via there webpage: https://codersforcauses.org/ 
+I joined the club on the 31/03/2026 via their webpage: https://codersforcauses.org/ 
 
 ### Club Registration With CFC: 
 
