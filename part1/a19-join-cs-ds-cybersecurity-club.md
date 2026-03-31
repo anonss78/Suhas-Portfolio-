@@ -12,11 +12,11 @@ I joined the club on the 31/03/2026 via their webpage: https://codersforcauses.o
 ### Club Registration With CFC: 
 
 **Entering my details:**
-![alt text](image.png)
+![alt text](cfc-signup.png)
 
 **Evidence of account creation:**
 My dashboard:
-![alt text](image-1.png)
+![alt text](cfc-dashboard.png)
 
 My profile:
-![alt text](image-2.png)
+![alt text](cfc-signup.png)
