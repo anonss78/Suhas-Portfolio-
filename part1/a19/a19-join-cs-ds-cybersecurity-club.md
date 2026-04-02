@@ -8,12 +8,13 @@
 
 ## Joining Coders for Causes (CFC)
 
-I joined the club on 31/03/2026 via their webpage:  
-https://codersforcauses.org/
+I joined the club on 31/03/2026 via their webpage:  *https://codersforcauses.org/*
 
 ## Club Registration with CFC
 
 ### Entering My Details
+
+**Signing Up**
 
 ![CFC signup page](cfc-signup.png)
 
