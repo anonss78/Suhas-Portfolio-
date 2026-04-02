@@ -1,1 +1,2 @@
 # Suhas-Portfolio-
+Contains 25 cybersecurity-related completed activities as markdown files; located in distinct folders for each activity. Each folder contains evidence pertaining to the activity such as images and screenshots.
