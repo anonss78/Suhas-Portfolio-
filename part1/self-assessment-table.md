@@ -5,7 +5,7 @@
 | Activity | Title | Evidence Provided | Marks Claimed |
 |----------|-------|-------------------|---------------|
 | A1 | Security concepts on campus | Personal observations of UWA campus with named systems (SafeZone, MFA, student card) | 2 |
-| A2 | Security concepts in public space | Perth-specific examples with references and personal photo of SmartRider gates | 2 |
+| A2 | Security concepts in public space | Perth-specific examples with reference photos | 2 |
 | A3 | Security concepts at home | Personal photos of home alarm, Eufy cameras and doorbell camera | 2 |
 | A4 | Vulnerable website | SSL Labs scan with annotated screenshots showing weak ciphers, missing HSTS | 2 |
 | A5 | Cryptographic implementation online | Personal browser screenshot showing TLS padlock with explanation | 2 |
