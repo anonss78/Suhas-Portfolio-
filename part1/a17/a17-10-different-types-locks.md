@@ -19,6 +19,9 @@ Requires a PIN or number code to unlock, commonly used on electronic lockers on 
 
 Using radio-frequency identification or near-field communication cards for access control, such as when using an elevator or unlocking a door.
 
+***An Example Of NFC Key Card Lock Used on The UWA Campus***
+![Keycard Lock NFC](keycardlock.jpg)
+
 5) Laptop Cable Locks: 
 
 Physical cables, such as Kensington locks, that secure portable laptops to fixed objects, protecting physical hardware from theft.
@@ -31,9 +34,13 @@ Uses a chain to secure a bike frame to a stationary object (such as a bike rack)
 
 A technical device that prevents the seatbelt from extending. Used by police in order to restrain of detainees. 
 
+![Seat belt lock](seatbeltlock.png)
+
 8) Deadbolt 
 
 A strong solid metal bolt that is turned into the door frame using a key, and requires the key to be unlocked. 
+
+![deadbolt](deadbolt.png)
 
 9) Padlock:
 
