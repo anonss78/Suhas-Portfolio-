@@ -24,7 +24,7 @@
 | A18 | Two AI hallucination cases | Personal ChatGPT tests with screenshots and shared chat links as evidence | 2 |
 | A19 | Join a cybersecurity club | Screenshots of CFC registration form, dashboard and profile as evidence | 2 |
 | A20 | Discussion about cybersecurity event | Personal chat screenshots with friend Jamie discussing Operation Payback | 2 |
-| A21 | Online cybersecurity discussion | Stack Overflow answer with upvote received, link to live post provided | 2 |
+| A21 | Online cybersecurity discussion | Stack Overflow answer and a link to live post provided | 2 |
 | A23 | Enhance Cybersecurity of Your Home | Altered Firewall settings of my networks router, and provided evidence as necessary | 2 |
 | A24 | Teach family about cybersecurity | Voice recording uploaded to Google Drive as evidence of teaching session | 2 |
 | A29 | Analyse AI-generated media | Used isthisai.com to analyse viral Tom Holland/Zendaya image, 74% AI confidence | 2 |
